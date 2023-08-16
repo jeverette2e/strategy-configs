@@ -1,0 +1,4 @@
+mapping:
+  components:
+  - name: dc-metro-map-z7bv
+    repository: quay.io/redhat-appstudio-qe/dcmetromap
