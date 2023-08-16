@@ -1,0 +1,6 @@
+mapping:
+  components:
+  - name: dc-metro-map-cowu
+    repository: quay.io/redhat-appstudio-qe/dcmetromap
+  - name: devfile-sample-python-basic-kpzc
+    repository: quay.io/redhat-appstudio-qe/simplepython
