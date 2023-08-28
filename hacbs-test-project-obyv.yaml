@@ -1,0 +1,4 @@
+mapping:
+  components:
+  - name: hacbs-test-project-obyv
+    repository: quay.io/redhat-appstudio-qe/test-release-images
