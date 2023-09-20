@@ -1,0 +1,6 @@
+mapping:
+  components:
+  - name: dc-metro-map-7pvd
+    repository: quay.io/redhat-appstudio-qe/dcmetromap
+  - name: devfile-sample-python-basic-zatt
+    repository: quay.io/redhat-appstudio-qe/simplepython
