@@ -1,0 +1,4 @@
+mapping:
+  components:
+  - name: dc-metro-map-tb56
+    repository: quay.io/redhat-appstudio-qe/dcmetromap
