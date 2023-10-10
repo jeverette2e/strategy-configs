@@ -1,0 +1,6 @@
+mapping:
+  components:
+  - name: dc-metro-map-bve5
+    repository: quay.io/redhat-appstudio-qe/dcmetromap
+  - name: devfile-sample-python-basic-xzio
+    repository: quay.io/redhat-appstudio-qe/simplepython
