@@ -1,0 +1,6 @@
+mapping:
+  components:
+  - name: dc-metro-map-pxci
+    repository: quay.io/redhat-appstudio-qe/dcmetromap
+  - name: devfile-sample-python-basic-p155
+    repository: quay.io/redhat-appstudio-qe/simplepython
