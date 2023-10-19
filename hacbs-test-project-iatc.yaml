@@ -1,0 +1,4 @@
+mapping:
+  components:
+  - name: hacbs-test-project-iatc
+    repository: quay.io/redhat-appstudio-qe/test-release-images
